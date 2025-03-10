@@ -1,0 +1,4 @@
+Development of new functionality in YOLO-World.
+“I'm working with the Ultralytics (Python) repository. Write a function in Ultralytics/utils that measures the FPS of a YOLO world model with a tooltip and stores the result in JSON. Suggest how to integrate it into the existing structure.”
+Writing a utility to calculate FPS (Frames Per Second) for a YOLO-World model and save results to a JSON file.
+Supports custom object detection via prompt..

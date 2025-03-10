@@ -1,0 +1,2 @@
+Generate Python code for the utility in the Ultralytics YOLO-World with propmt project to calculate the FPS in video of the model and write it to JSON. Explain how to connect it
+repo https://github.com/ultralytics/ultralytics
